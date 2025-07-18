@@ -20,8 +20,7 @@ This project implements a comprehensive sign language recognition system that ca
 ## 🛠️ Technologies Used
 
 - **Computer Vision:** OpenCV, CVZone
-- **Machine Learning:** CNN (Convolutional Neural Networks)
-- **Model Training:** Google Teachable Machine
+- **Machine Learning and Training:** CNN (Convolutional Neural Networks)
 - **Speech Synthesis:** OpenAI TTS / Google Text-to-Speech (GTTS)
 - **Programming Language:** Python
 - **Hand Tracking:** MediaPipe (via CVZone)
@@ -208,10 +207,6 @@ print_duration = 10  # seconds for consistent detection
 - Hand positioning needs to be within camera frame
 - Background complexity can impact detection
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - CVZone for hand tracking utilities
@@ -219,10 +214,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - OpenAI for text-to-speech services
 - MediaPipe for hand landmark detection
 
-## 📧 Contact
 
-For questions or support, please open an issue in the repository or contact the development team.
-
----
 
 **Note:** This project aims to bridge communication gaps and make sign language more accessible to broader communities. Your contributions and feedback are welcome!
