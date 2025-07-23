@@ -33,6 +33,8 @@ This project implements a comprehensive sign language recognition system that ca
    - Detects up to 1 hand in real-time
    - Extracts 21 hand landmarks
    - Provides bounding box coordinates
+     ![Skeleton_Image_1718864726 663953](https://github.com/user-attachments/assets/847586a3-c8e9-4627-991a-e98c42a312ed)
+
 
 2. **Image Processing Pipeline**
    - Grayscale conversion
