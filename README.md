@@ -33,21 +33,23 @@ This project implements a comprehensive sign language recognition system that ca
    - Detects up to 1 hand in real-time
    - Extracts 21 hand landmarks
    - Provides bounding box coordinates
+
+
      ![Skeleton_Image_1718864726 663953](https://github.com/user-attachments/assets/847586a3-c8e9-4627-991a-e98c42a312ed)
 
 
-2. **Image Processing Pipeline**
+3. **Image Processing Pipeline**
    - Grayscale conversion
    - Adaptive thresholding
    - Binary image generation
    - Skeletal structure creation
 
-3. **Classification Module**
+4. **Classification Module**
    - CNN-based gesture recognition
    - Trained on 8 classes: `["ka", "kha", "ga", "gha", "ca", "cha", "ja", "jha"]`
    - Real-time prediction with confidence scoring
 
-4. **Text-to-Speech Integration**
+5. **Text-to-Speech Integration**
    - OpenAI TTS for high-quality speech synthesis
    - Automatic audio playback for recognized gestures
 
