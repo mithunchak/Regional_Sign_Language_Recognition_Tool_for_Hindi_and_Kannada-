@@ -216,7 +216,7 @@ print_duration = 10  # seconds for consistent detection
 
 - CVZone for hand tracking utilities
 - Google Teachable Machine for model training platform
-- OpenAI for text-to-speech services
+- GTTS for text-to-speech services
 - MediaPipe for hand landmark detection
 
 
